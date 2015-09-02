@@ -9,7 +9,7 @@ SimpleTest: SimpleTest.o SinglyLinkedList.o
 
 dox:
 	echo "Generating documentation using doxygen..."
-	doxygen doxygen-config >& doxygen.log
+	doxygen doxygen-config &> doxygen.log
 	echo "Use konqueror docs/html/index.html to see docs (or any other browser)"
 
 clean:
