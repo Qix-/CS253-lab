@@ -1,4 +1,4 @@
-CC=gcc
+
 CFLAGS=-g  
 LIBFLAGS=-fPIC -shared
 LIBS=-ldl

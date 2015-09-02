@@ -3,7 +3,7 @@ INSTALL=..
 INCLUDE=$(INSTALL)/include -I.
 LIBS=$(INSTALL)/lib
 LFLAGS=-L$(LIBS) -lmylib
-CC=gcc
+
 CFLAGS=-Wall -g  -I$(INCLUDE)
 
 PROGS=RandomTestList SimpleTestList UnitTestList

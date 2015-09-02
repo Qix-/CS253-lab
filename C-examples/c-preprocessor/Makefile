@@ -1,4 +1,4 @@
-CC=gcc
+
 CFLAGS=-Wall -g
 #CFLAGS=-Wall -g -DDEBUG=1
 .SUFFIXES: .o .c

@@ -23,7 +23,7 @@
 # to sign. The CC macro is used to define the C compiler and the 
 # macro CFLAGS defines the default set of options or flags used 
 # with the C compiler.
-CC=gcc
+
 CFLAGS=-Wall -Wconversion -g  
 
 # Recognize files with .c and .o extensions

@@ -1,4 +1,4 @@
-CC=gcc
+
 CFLAGS=-Wall -Wconversion -g
 .SUFFIXES: .o .c
 .c.o:

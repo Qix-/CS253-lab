@@ -1,4 +1,4 @@
-CC=gcc
+
 CFLAGS=-Wall -g  
 OBJFLAGS= -g -c -fPIC
 LIBFLAGS=-shared

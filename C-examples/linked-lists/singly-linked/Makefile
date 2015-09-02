@@ -1,5 +1,5 @@
 
-CC=gcc
+
 CFLAGS=-Wall -g -O -MMD
 
 all: SimpleTest dox

@@ -1,5 +1,5 @@
 
-CC=gcc
+
 CFLAGS=-Wall -MMD -g
 
 PROGS=color pipe-talk fifo-talk fifo-client fifo-server hello-pipe\

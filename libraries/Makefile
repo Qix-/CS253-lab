@@ -1,5 +1,5 @@
 
-CC=gcc
+
 LIBFLAGS=-I. -shared -fPIC
 CFLAGS=-I. -Wall -shared -fPIC
 LIBS=-lmylib

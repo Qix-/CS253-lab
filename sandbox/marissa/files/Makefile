@@ -1,4 +1,4 @@
-CC=gcc
+
 CFLAGS=-Wall -g -O -I. -MMD
 PROGS=parse-file
 OBJS=parse-file.o Object.o

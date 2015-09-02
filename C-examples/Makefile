@@ -1,4 +1,4 @@
-CC=gcc
+
 CFLAGS=-Wall -g
 
 #This executes the command "ls" and then assigns 

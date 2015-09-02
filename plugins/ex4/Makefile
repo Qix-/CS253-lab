@@ -1,4 +1,4 @@
-CC=gcc
+
 CPP=g++
 OBJFLAGS=-c -fPIC
 LIBFLAGS=-shared

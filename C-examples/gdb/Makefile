@@ -1,4 +1,4 @@
-CC=gcc
+
 CFLAGS=-Wall -g  
 
 OBJS=arrays strings testlists faulty1 loop function

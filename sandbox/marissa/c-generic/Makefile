@@ -1,4 +1,4 @@
-CC=gcc
+
 CFLAGS=-Wall -g -O -I. -MMD
 PROGS=SimpleTestList SimpleTestListTwo UnitTestList
 OBJS=List.o Node.o
